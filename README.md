@@ -1,7 +1,8 @@
 Pengalaman Belajar di Dicoding
 
 10 Februari 2024
-Belajar GIT dengen GITHUB (Progres 21%)
+* Belajar GIT dengen GITHUB (Progres 21%)
+
 11 Februari 2024
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
